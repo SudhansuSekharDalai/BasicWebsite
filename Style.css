@@ -1,0 +1,18 @@
+body 
+{
+    background-image:url(wbg.jpg);
+}
+.c1
+{
+    border: 8px dotted grey;
+}
+.c2
+{
+    border: 2px solid black;
+    box-shadow: -5px 5px #696969;
+}
+.c3
+{
+    border: 2px solid black;
+    box-shadow: 5px 5px #696969;
+}
